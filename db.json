@@ -1,0 +1,46 @@
+{
+    "users": [
+      {
+        "id": "43",
+        "firstName": "Sadiq Ali",
+        "age": 43,
+        "companyId": "1"
+      },
+      {
+        "id": "23",
+        "firstName": "Amir Ali",
+        "age": 23,
+        "companyId": "2"
+      },
+      {
+        "id": "18",
+        "firstName": "Talha Ali",
+        "age": 18,
+        "companyId": "2"
+      },
+      {
+        "id": "wydM5XC",
+        "firstName": "Tayyab Ali",
+        "age": 15,
+        "companyId": "1"
+      },
+      {
+        "firstName": "abc",
+        "age": 44,
+        "id": "YBnewhC",
+        "companyId": "2"
+      }
+    ],
+    "companies": [
+      {
+        "id": "1",
+        "name": "Apple",
+        "description": "Iphone"
+      },
+      {
+        "id": "2",
+        "name": "Google",
+        "description": "search"
+      }
+    ]
+  }
